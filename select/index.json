@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "morning haze",
+  "base_artist": "keeno",
+  "createdAt": "2026-02-08T07:01:06.467858Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "morning haze",
+      "artist": "keeno feat.初音ミク feat. Miku Hatsune",
+      "has_synced": true,
+      "path": "select/01_morning_haze_keeno_feat.初音ミク_feat._Miku_Hatsune.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "morning haze",
+      "artist": "keeno feat. 初音ミク Append (Dark)",
+      "has_synced": true,
+      "path": "select/02_morning_haze_keeno_feat._初音ミク_Append_(Dark).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Morning Haze",
+      "artist": "Flash",
+      "has_synced": true,
+      "path": "select/03_Morning_Haze_Flash.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "morning haze",
+      "artist": "keeno",
+      "has_synced": true,
+      "path": "select/04_morning_haze_keeno.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Morning Haze",
+      "artist": "Heri Iznaga",
+      "has_synced": true,
+      "path": "select/05_Morning_Haze_Heri_Iznaga.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "morning haze",
+      "artist": "keeno  append",
+      "has_synced": true,
+      "path": "select/06_morning_haze_keeno_append.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "morning haze",
+      "artist": "keeno feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/07_morning_haze_keeno_feat._初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "morning haze",
+      "artist": "keeno",
+      "has_synced": false,
+      "path": "select/pl_01_morning_haze_keeno.txt"
+    }
+  ]
+}
